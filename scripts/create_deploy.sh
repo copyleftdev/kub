@@ -1,0 +1,1 @@
+kubectl create deployment hello-minikube --image=k8s.gcr.io/echoserver:1.4

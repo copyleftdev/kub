@@ -1,0 +1,1 @@
+kubectl expose deployment balanced --type=LoadBalancer --port=8080
